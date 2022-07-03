@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "SIRUI CHEN's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, The University of Hong Kong, 2023
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021 to Summer 2022: Undergraduate research intern
+  * Stanford University
+  * Duties include: Lead to independ projects under the supervision of professor C. Karen Liu. Developing new algorithms for closing the sim2real gap using as well as planning for contact-rich non-prehensile dexterous manipulation task. Participate and presenting at lab's paper reading group.
+  * Supervisor: Professor Jia Pan
+* Summer 2021: Research Assistant
+  * The University of Hong Kong
+  * Duties include: As a URFP participant I lead the reseach project that develop of tools and investigate the how to use differentiable physics simulator for deformable object state representation learning.
+  * Supervisor: Professor Jia Pan
+* Summer 2021: Research Assistant
+  * The University of Hong Kong
+  * Duties include: As a URFP participant I lead the reseach project that develop of tools and investigate the how to use differentiable physics simulator for deformable object state representation learning.
+  * Supervisor: Professor Jia Pan
+* Spring 2021: AI Lab Intern
+  * AWS Shanghai AI Lab
+  * Duties included: Reproduce research paper in temporal graphs for DGL as example. Collaborating with a PhD student to develop new algorithms in continuos temporal dynamic graph event forecasting.
+  * Supervisor: Professor Junchi Yan
+* Summer 2020: Research Assistant
+  * The University Of Hong Kong
+  * Duties included: Exploring the potential as well as problems of using differentiable simulator for robot learning
+  * Supervisor: Professor Jia Pan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Fun projects:
+=====
+* Nimblephysics
+  * Actively contributing to a open source differentiable simulator developed by Keenon Werling & Prof. C. Karen Liu. which focus on differentiable simulation of articulated rigid body in contact-rich environment.
+* Robomaster ICRA AI Challenge 2020
+  * Founded and lead HKU's competition team, organized the code framework for development. Developed prize-winning a rapid navigator for wheeled robot during pendemic. Which ranked 10 over more than 50 teams.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (Advanced)
+  * Pytorch
+  * DGL
+  * ROS
+  * Tensorflow
+  * Nimblephysics
+* C++ (Advanced)
+  * ROS
+  * OpenCV
+  * Nimblephysics
+* Java (Intermediate)
 
 Publications
 ======
@@ -56,4 +77,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* First Team leader and founder of HKU Robomaster ICRA AI Challenge team.
+* IT Secretary of BTP voluntary teaching NGO (2018-2019).
+
