@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/diffsrl
 excerpt: 'Using differentiable physics engine to learn low dimension state representation of deformable object.'
 date: 2021-10-22
-venue: 'Submitted to IEEE RA-L'
+venue: 'Accepted to IEEE RA-L'
 paperurl: 'https://arxiv.org/abs/2110.12352'
 citation: 'S. Chen,Y. Liu, S. Yao, J. Li, T. Fan, J. Pan. (2021). &quot;DiffSRL: Learning Dynamic-aware State Representation for Deformable Object Control with Differentiable Simulator. &quot; <i>Arxiv</i>.'
 ---
