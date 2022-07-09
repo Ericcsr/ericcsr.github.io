@@ -18,11 +18,7 @@ Research experience
 * Fall 2021 to Summer 2022: Undergraduate research intern
   * Stanford University
   * Duties include: Lead to independ projects under the supervision of professor C. Karen Liu. Developing new algorithms for closing the sim2real gap using as well as planning for contact-rich non-prehensile dexterous manipulation task. Participate and presenting at lab's paper reading group.
-  * Supervisor: Professor Jia Pan
-* Summer 2021: Research Assistant
-  * The University of Hong Kong
-  * Duties include: As a URFP participant I lead the reseach project that develop of tools and investigate the how to use differentiable physics simulator for deformable object state representation learning.
-  * Supervisor: Professor Jia Pan
+  * Supervisor: Professor C. Karen Liu
 * Summer 2021: Research Assistant
   * The University of Hong Kong
   * Duties include: As a URFP participant I lead the reseach project that develop of tools and investigate the how to use differentiable physics simulator for deformable object state representation learning.
