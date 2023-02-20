@@ -86,7 +86,7 @@ author:
   location         : "Hong Kong, HKSAR"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=CxnJnCgAAAAJ&hl=en"
   email            :  "ericcsr@connect.hku.hk"
   researchgate     :  "https://www.researchgate.net/profile/Sirui-Chen-7"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Ericcsr/"
+  github           : "Ericcsr"
   google_plus      :
   keybase          :
   instagram        :
