@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen Sirui Eric"
 title_separator          : "-"
 name                     : &name "Chen Sirui Eric"
-description              : &description "Senior Undergraduate at HKU CS interested in robotics and physics simulation"
+description              : &description "First-year PhD student at Stanford CS interested in robotics and physics simulation"
 url                      : https://ericcsr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ericcsr/ericcsr.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chen Sirui Eric"
   avatar           : "casual_photo.jpg"
-  bio              : "Senior Undergraduate at HKU CS interested in robotics and physics simulation"
-  location         : "Hong Kong, HKSAR"
+  bio              : "First-year PhD student at Stanford CS interested in robotics and physics simulation"
+  location         : "Stanford, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  "https://scholar.google.com/citations?user=T7W4JhEAAAAJ&hl=en" # "https://scholar.google.com/citations?user=CxnJnCgAAAAJ&hl=en"
-  email            :  "ericcsr@connect.hku.hk"
+  email            :  "ericcsr@stanford.edu"
   researchgate     :  "https://www.researchgate.net/profile/Sirui-Chen-7"
   uri              :
   bitbucket        :

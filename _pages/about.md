@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chen Sirui Eric (陈思睿). A senior undergraduate student at the University of Hong Kong major in computer science. I am an enthusiast in Robotics and Physics simulation and physics based animation. I hope to use large scale differentiable physics simulation to empower a new generation of robot that can be test and verified safely. I am also focusing on how to solve complex control of both animated character and real robot from different source human demonstrations. In 2022, I was fortunate to participate UGVR internship at [The Movement Lab](https://tml.stanford.edu) under the supervision of Professor Karen Liu. I am contributing to [nimblephysics](https://nimblephysics.org) for some cool research projects. I will join Stanford@CS as PhD student in starting from Fall 2023
+Hi, I am Chen Sirui Eric (陈思睿). A first year CS PhD student at Stanford. I am generally interested in design robot planning algorithms for contact-rich tasks such as dexterous manipulation. I am also focusing on how to solve complex control of both animated character and real robot combining different source human demonstrations as well as analytical modeling. In 2022, I was fortunate to participate UGVR internship at [The Movement Lab](https://tml.stanford.edu) and contributed to [nimblephysics](https://nimblephysics.org) for some cool research projects. Feel free to reach out for internship oppotunity or discussing research ideas.
 
 ![research goal](/images/goal.png)
