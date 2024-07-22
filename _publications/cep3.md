@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/cep3
 excerpt: 'Jointly predicting event type as well as event time on continuous dynamic graph of community.'
 date: 2022-11-24
-venue: 'Learning on Graph 2022'
+venue: 'Learning on Graph'
 paperurl: 'https://openreview.net/forum?id=sfc0rjCBqS_'
 citation: 'X. Wang,S. Chen, Y. He, M. Wang, Q. Gan, J. Yan, Y. Yang. (2022). &quot;CEP3: Community Event Prediction with Neural Point Process on Graph. &quot; <i>LoG 2022</i>.'
 ---
