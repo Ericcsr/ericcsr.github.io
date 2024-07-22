@@ -11,10 +11,14 @@ redirect_from:
 
 Education
 ======
+* PhD. in Computer Science, Stanford University, 2023 - 2028 (Expected)
 * B.S. in Computer Science, The University of Hong Kong, 2023
 
 Research experience
 ======
+* Summer 2024: Research Intern
+  * Honda Research Institute
+  * Duties include: Research dexterous tool manipulation with tactile sensing.
 * Fall 2021 to Summer 2022: Undergraduate research intern
   * Stanford University
   * Duties include: Lead to independ projects under the supervision of professor C. Karen Liu. Developing new algorithms for closing the sim2real gap using as well as planning for contact-rich non-prehensile dexterous manipulation task. Participate and presenting at lab's paper reading group.
