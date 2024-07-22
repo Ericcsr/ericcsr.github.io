@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pregrasp
 excerpt: 'A framework for dexterous nonprehensile pregrasp manipulation for initially occluded ungraspable objects'
 date: 2023-07-15
-venue: 'SIGGRAPH Conference proceedings 2023'
+venue: 'SIGGRAPH Conference proceedings'
 paperurl: 'https://arxiv.org/abs/2305.04654'
 citation: 'S. Chen, A. Wu, C.K Liu. (2023). &quot;Synthesize Dexterous Nonprehensile Pregrasp for Ungraspable Objects. &quot; <i>SIGGRAPH</i>.'
 ---

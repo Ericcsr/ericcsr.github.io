@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/springgrasp
 excerpt: 'Dexterous precision grasp planning for shape uncertain objects'
 date: 2024-07-15
-venue: 'Robotics: Science and Systems 2024'
+venue: 'Robotics: Science and Systems'
 paperurl: 'https://arxiv.org/abs/2404.13532'
 citation: 'S. Chen, J. Bohg, C.K Liu. (2024). &quot;SpringGrasp: Synthesizing Compliant, Dexterous Grasps under Shape Uncertainty. &quot; <i>RSS</i>.'
 ---
