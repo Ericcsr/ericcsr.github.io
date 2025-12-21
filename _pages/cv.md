@@ -16,6 +16,9 @@ Education
 
 Research experience
 ======
+* Summer & Fall 2025: Research Intern
+  * Nvidia Research GEAR Lab
+  * Duties include: Research scaling up humanoid compliant control.
 * Summer 2024: Research Intern
   * Honda Research Institute
   * Duties include: Research dexterous tool manipulation with tactile sensing.
