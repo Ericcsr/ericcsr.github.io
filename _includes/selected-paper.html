@@ -1,0 +1,17 @@
+{% include base_path %}
+<div class="selected-paper">
+  <a class="selected-paper__teaser" href="{{ base_path }}{{ include.url }}">
+    <img src="{{ include.teaser | prepend: "/images/" | prepend: base_path }}" alt="{{ include.title }}">
+  </a>
+  <h3 class="selected-paper__title">
+    <a href="{{ base_path }}{{ include.url }}">{{ include.title }}</a>
+  </h3>
+  <p class="selected-paper__venue">{{ include.venue }}, {{ include.year }}</p>
+  <p class="selected-paper__excerpt">{{ include.excerpt }}</p>
+  <p class="selected-paper__links">
+    <a href="{{ include.paperurl }}">Paper</a>
+    {% if include.website %}
+      · <a href="{{ include.website }}">Website</a>
+    {% endif %}
+  </p>
+</div>
