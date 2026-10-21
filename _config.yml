@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen Sirui Eric"
 title_separator          : "-"
 name                     : &name "Chen Sirui Eric"
-description              : &description "Third-year PhD student at Stanford CS interested in robotics"
+description              : &description "Final year PhD student at Stanford CS interested in robotics"
 url                      : https://ericcsr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ericcsr/ericcsr.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chen Sirui Eric"
   avatar           : "casual_photo.jpg"
-  bio              : "Third-year PhD student at Stanford CS interested in robotics"
+  bio              : "Final year PhD student at Stanford CS interested in robotics"
   location         : "Stanford, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
