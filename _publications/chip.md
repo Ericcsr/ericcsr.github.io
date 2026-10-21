@@ -7,8 +7,6 @@ date: 2026-10-01
 venue: 'Conference on Robot Learning'
 paperurl: 'https://arxiv.org/abs/2512.14689'
 citation: 'S. Chen, Z. Cao, Z. Luo, F. Castaneda, C. Li, T. Wang, Y. Yuan, L. Fan, C.K. Liu, Y. Zhu. (2026). &quot;CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation.&quot; <i>CoRL</i>.'
-header:
-  teaser: "chip_teaser.jpg"
 redirect_from:
   - /publications/chip
   - /publications/chip/

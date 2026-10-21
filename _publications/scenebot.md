@@ -7,8 +7,6 @@ date: 2026-06-25
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2606.27581'
 citation: 'S. Chen, S. Zhao, Z. Wu, J. Li, G. Shi, C.K. Liu. (2026). &quot;SceneBot: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction.&quot; <i>Arxiv</i>.'
-header:
-  teaser: "scenebot_teaser.jpg"
 redirect_from:
   - /publications/scenebot
   - /publications/scenebot/

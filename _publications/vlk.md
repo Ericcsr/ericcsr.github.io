@@ -7,8 +7,6 @@ date: 2026-10-02
 venue: 'Conference on Robot Learning'
 paperurl: 'https://arxiv.org/abs/2606.30645'
 citation: 'Y. Wang, J. Li, S. Chen, T. Truong, P. Xu, P. Abbeel, R. Duan, K. Sreenath, A. Kanazawa, C. Sferrazza, G. Shi, C.K. Liu. (2026). &quot;VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes.&quot; <i>CoRL</i>.'
-header:
-  teaser: "vlk_teaser.jpg"
 redirect_from:
   - /publications/vlk
   - /publications/vlk/
