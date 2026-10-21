@@ -90,6 +90,16 @@
    ========================================================================== */
 
 .list__item {
+  .archive__item-teaser {
+    max-width: 100%;
+    margin: 0 0 0.75em;
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  }
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
